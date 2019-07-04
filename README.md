@@ -1,7 +1,7 @@
 # Audio Book
 #### Audiobook app built with React-native
 
-![alt text]https://github.com/codinger41/audio-book/blob/master/audiobook.png?raw=true)
+![alt text](https://github.com/codinger41/audio-book/blob/master/audiobook.png?raw=true)
 
 ## :arrow_forward: How to Run App
 
